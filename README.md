@@ -1,7 +1,7 @@
 # README
 
 ## Notes
-
+ANSWERED!
 - Course feedback [here](https://ojp.metropolia.fi/lomakkeet/1/lomake.html?code=VFgwMENHMzAtMzAwOQ==)
 - Please use the following template for peer/group assessment `ArviointiLomake.docx`
 
